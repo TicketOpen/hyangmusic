@@ -2,7 +2,7 @@
 title = "향뮤직 ─ 입고 리스트"
 url = "http://hyangmusic.com/Incomes.php?page=1&parents_num=&album_mode=music"
 entrySelector = "td:nth-child(3) > table:nth-child(10) > tbody > tr > td > table"
-titleSelector = "td.lt17 > font > b"
+titleSelector = "td.lt17 font"
 linkSelector = "tbody > tr:nth-child(1) > td:nth-child(2) > a"
 contentSelector = "tbody > tr:nth-child(2) > td:nth-child(3) > font"
 imageSelector = "a img.img_border"
