@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 17:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Troye Sivan
+														Blue Neighbourhood (KOREA SPECIAL EDITION) [3~5일 후 발송] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=1825&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=1825&amp;album_mode=music</guid>
+            <pubDate>Tue, 02 Nov 2021 17:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[20,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-001825_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위위 (Ouioui)
+														Vinyl Edition Vol.1 (LAVENDER COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=897&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=897&amp;album_mode=music</guid>
+            <pubDate>Tue, 02 Nov 2021 17:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000897_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남재섭
 														남재섭 (향뮤직 ─ 입고 리스트)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Mon, 01 Nov 2021 05:38:26 GMT</pubDate>
             <content:encoded><![CDATA[40,700]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/OLDP/OLDP-004307_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ace Of Base
-														Gold: Greatest Hits (GOLD COLORED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8590&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8590&amp;album_mode=music</guid>
-            <pubDate>Mon, 01 Nov 2021 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[40,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008590_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bert Jansch And John Renbourn / Pentangle
-														Gold (DELUXE EDITION) [REMASTERED] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ARFO&amp;code=876&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ARFO&amp;code=876&amp;album_mode=music</guid>
-            <pubDate>Mon, 01 Nov 2021 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[24,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ARFO/ARFO-000876_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
