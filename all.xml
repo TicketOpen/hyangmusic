@@ -4,80 +4,80 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 17:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Various Artists
-														숨∞ 여덟번째 [그린플러그드 옴니버스 앨범] (LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4455&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4455&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[24,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004455_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[홍서범
+														데뷔40주년 기념 베스트 앨범 (LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8757&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8757&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008757_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다양성
-														종이비행기와 풍선으로 가득 찬 세상 (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5257&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5257&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005257_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조덕배
+														2집 - 꿈에 (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8746&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8746&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008746_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alan Parsons Project
-														Ammonia Avenue (EXPANDED & REMASTERED) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=3472&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=3472&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-003472_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alan Parsons Project
-														Eye In The Sky (EXPANDED & REMASTERED) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=3095&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=3095&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-003095_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tame Impala
-														Innerspeaker (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6606&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6606&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[15,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006606_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iron Maiden
-														Powerslave (2015 REMASTERED) [DIGI-PAK] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4612&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4612&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[21,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HEVM/HEVM-004612_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay
-														Viva La Vida / Prospekt's March (2CD) [DIGI-PAK] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=2121&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=2121&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
+            <title><![CDATA[에스파 (Aespa)
+														Savage (PHOTOBOOK Ver.) [1ST MINI ALBUM] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8740&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8740&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
             <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-002121_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008740_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jeff Buckley
-														Grace (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3328&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3328&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[26,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003328_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[투에이엠 (2AM)
+														Ballad 21 F/w (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8754&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8754&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008754_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[챈슬러 (Chancellor)
+														Chancellor (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=889&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=889&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000889_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정우
+														1집 - 여섯 번째 토요일 (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4823&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4823&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004823_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임창정
+														17집 - 별거 없던 그 하루로 (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8762&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8762&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[26,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008762_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스피츠 (Msftz)
+														Belief (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8772&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8772&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Nov 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008772_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
