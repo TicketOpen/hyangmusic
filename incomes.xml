@@ -4,9 +4,63 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 17:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Klone
+														Alive (SILVER COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6848&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6848&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[47,200]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Porcupine Tree
+														Lightbulb Sun (180G Gate-Fold 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6847&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6847&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006847_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														Playing The Heart (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5832&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5832&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005832_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead
+														Kid A Mnesia (RED COLOURED 3LP) [인디스토어 에디션]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3926&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3926&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[88,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003926_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead
+														Kid A Mnesia (3LP) [3~5일 후 발송]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3925&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3925&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[88,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003925_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead
+														Kid A Mnesia]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3924&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3924&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003924_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이민규
 														Colorful]]></title>
@@ -24,60 +78,6 @@
             <pubDate>Fri, 05 Nov 2021 05:38:45 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002561_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피난
-														간사한 마음]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5263&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5263&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005263_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백아
-														우주선]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5260&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5260&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005260_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노디시카 (Nodycika)
-														20]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=896&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=896&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000896_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gregory Porter
-														Still Rising - Best Album (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=VOCJ&amp;code=3818&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=VOCJ&amp;code=3818&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[18,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/VOCJ/VOCJ-003818_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 (Aespa)
-														Savage (DIGI-PACK Ver.) [1ST MINI ALBUM]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8742&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8742&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008742_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														The Grandmaster (일대종사) [택동 영화사 30주년 기념]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=519&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=519&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000519_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
