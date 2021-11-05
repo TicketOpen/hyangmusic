@@ -1,4 +1,15 @@
-[hyangmusic]
+[precontract]
+title = "향뮤직 ─ 예약 음반"
+url = "http://hyangmusic.com/Def_List.php?list_name=precontract"
+entrySelector = "td:nth-child(3) > table:nth-child(9) > tbody > tr[valign='top']"
+titleSelector = "td[class='lt17'] font[color='006666']"
+linkSelector = "td:nth-child(2) > a"
+contentSelector = "font[color='brown']"
+imageSelector = "a img.img_border"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[incomes]
 title = "향뮤직 ─ 입고 리스트"
 url = "http://hyangmusic.com/Incomes.php?page=1&parents_num=&album_mode=music"
 entrySelector = "td:nth-child(3) > table:nth-child(10) > tbody > tr > td > table"
@@ -7,3 +18,26 @@ linkSelector = "tbody > tr:nth-child(1) > td:nth-child(2) > a"
 contentSelector = "tbody > tr:nth-child(2) > td:nth-child(3) > font"
 imageSelector = "a img.img_border"
 waitUntil = "networkidle"
+onFail = "stale"
+
+[m_precontract]
+title = "모바일 향뮤직 ─ 예약 음반"
+url = "http://hyangmusic.com/m/?mcid=contents&mpid=precontract"
+entrySelector = "div[style='background-color:#fff;width:100%;height:auto;max-heightx:100%;margin:0px;padding:11px;margin-topx:5px;']"
+titleSelector = "div:nth-child(2) > div:nth-child(2)"
+linkSelector = "div a"
+contentSelector = "div:nth-child(2) > div.ellipsis.search_link > span"
+imageSelector = "img.img_thmbnail.img_border.lazy"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[m_incomes]
+title = "모바일 향뮤직 ─ 입고 리스트"
+url = "http://hyangmusic.com/m/?mcid=contents&mpid=incomes"
+entrySelector = "div[style='background-color:#fff;width:100%;height:auto;max-heightx:100%;margin:0px;padding:11px;margin-topx:5px;']"
+titleSelector = "div:nth-child(2) > div:nth-child(2)"
+linkSelector = "div a"
+contentSelector = "div:nth-child(2) > div.ellipsis.search_link > span"
+imageSelector = "img.img_thmbnail.img_border.lazy"
+waitUntil = "networkidle"
+onFail = "stale"
