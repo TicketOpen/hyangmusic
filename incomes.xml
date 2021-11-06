@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 17:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 05:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ed Sheeran
+														=]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8591&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8591&amp;album_mode=music</guid>
+            <pubDate>Sat, 06 Nov 2021 05:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[18,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008591_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Hoppe
+														By Myself]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2743&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2743&amp;album_mode=music</guid>
+            <pubDate>Sat, 06 Nov 2021 05:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WAGE/WAGE-002743_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Klone
 														Alive (SILVER COLOURED 2LP)]]></title>
@@ -45,7 +63,7 @@
         </item>
         <item>
             <title><![CDATA[Radiohead
-														Kid A Mnesia (3LP) [3~5일 후 발송]]]></title>
+														Kid A Mnesia (3LP)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3925&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3925&amp;album_mode=music</guid>
             <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
             <content:encoded><![CDATA[31,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003924_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민규
-														Colorful]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5250&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5250&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005250_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재훈
-														S.W.I.M]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2561&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2561&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002561_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
