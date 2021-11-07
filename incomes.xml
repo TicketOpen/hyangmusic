@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 17:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=22&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=22&amp;album_mode=music</guid>
             <pubDate>Sat, 06 Nov 2021 17:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[18,800]]></content:encoded>
+            <content:encoded><![CDATA[16,900 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-000022_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,7 +40,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2743&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2743&amp;album_mode=music</guid>
             <pubDate>Sat, 06 Nov 2021 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/WAGE/WAGE-002743_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -49,7 +49,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6848&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6848&amp;album_mode=music</guid>
             <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[47,200]]></content:encoded>
+            <content:encoded><![CDATA[42,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006848_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,7 +58,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6847&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6847&amp;album_mode=music</guid>
             <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <content:encoded><![CDATA[36,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006847_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -67,7 +67,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5832&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5832&amp;album_mode=music</guid>
             <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[44,600]]></content:encoded>
+            <content:encoded><![CDATA[40,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005832_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
