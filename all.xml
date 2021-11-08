@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 17:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽니 (Monni)
+														5집 - Firmament [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5268&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5268&amp;album_mode=music</guid>
+            <pubDate>Mon, 08 Nov 2021 17:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[19,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005268_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽돌
 														너를 향한 감탄사! [예약판매] (향뮤직 ─ 예약 음반)]]></title>
@@ -71,13 +80,13 @@
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002562_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블루 (Bloo)
-														Moon And Back (사인CD 랜덤 발송) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=898&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=898&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000898_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[박주원
+														2집 - 슬픔의 피에스타 (180G CLEAR COLOURED Gate-Fold LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2560&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2560&amp;album_mode=music</guid>
+            <pubDate>Mon, 08 Nov 2021 17:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002560_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2pac
@@ -90,11 +99,11 @@
         </item>
         <item>
             <title><![CDATA[Belle And Sebastian
-														If You're Feeling Sinister (향뮤직 ─ 입고 리스트)]]></title>
+														If You're Feeling Sinister [3~5일 후 발송] (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=558&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=558&amp;album_mode=music</guid>
             <pubDate>Sat, 06 Nov 2021 17:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[13,800]]></content:encoded>
+            <content:encoded><![CDATA[12,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-000558_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -143,20 +152,11 @@
             <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005832_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Radiohead
-														Kid A Mnesia (RED COLOURED 3LP) [인디스토어 에디션] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3926&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3926&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[88,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003926_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[5집 - Firmament (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5268&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5268&amp;album_mode=music</guid>
             <pubDate>Mon, 08 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[몽니]]></content:encoded>
+            <content:encoded><![CDATA[몽니 (Monni)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005268_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,6 +312,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[2집 - 슬픔의 피에스타 (180G CLEAR COLOURED Gate-Fold LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2560&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2560&amp;album_mode=music</guid>
+            <pubDate>Mon, 08 Nov 2021 17:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[박주원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002560_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[All Eyez On Me (REMASTERED) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HRAP&amp;code=22&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HRAP&amp;code=22&amp;album_mode=music</guid>
@@ -381,7 +389,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3925&amp;album_mode=music</guid>
             <pubDate>Fri, 05 Nov 2021 17:45:24 GMT</pubDate>
             <content:encoded><![CDATA[Radiohead]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003925_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Kid A Mnesia (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -461,14 +469,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=AOST&amp;code=518&amp;album_mode=music</guid>
             <pubDate>Fri, 05 Nov 2021 05:12:39 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Ladies Of The Road (DELUXE EDITION) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=PROR&amp;code=1627&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=PROR&amp;code=1627&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[King Crimson]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

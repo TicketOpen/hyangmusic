@@ -4,7 +4,7 @@
         <title>모바일 향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 17:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5268&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5268&amp;album_mode=music</guid>
             <pubDate>Mon, 08 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[몽니]]></content:encoded>
+            <content:encoded><![CDATA[몽니 (Monni)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005268_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
