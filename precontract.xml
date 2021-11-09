@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 17:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤하 (Younha)
+														6집 - End Theory (포스터 케이스 증정) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8783&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8783&amp;album_mode=music</guid>
+            <pubDate>Tue, 09 Nov 2021 17:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008783_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽니 (Monni)
 														5집 - Firmament [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 05 Nov 2021 05:12:11 GMT</pubDate>
             <content:encoded><![CDATA[19,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000899_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아 킴 (Maria Kim)
-														With Strings: Dream Of You [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2562&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2562&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002562_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
