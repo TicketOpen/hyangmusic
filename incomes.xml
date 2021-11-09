@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 17:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 05:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														유미의 세포들 (tvN 금토 드라마)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1790&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1790&amp;album_mode=music</guid>
+            <pubDate>Tue, 09 Nov 2021 05:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001790_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mai Kuraki
+														Unconditional Love]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=POPJ&amp;code=2837&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=POPJ&amp;code=2837&amp;album_mode=music</guid>
+            <pubDate>Tue, 09 Nov 2021 05:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/POPJ/POPJ-002837_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박주원
 														2집 - 슬픔의 피에스타 (180G CLEAR COLOURED Gate-Fold LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
             <content:encoded><![CDATA[42,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006848_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Porcupine Tree
-														Lightbulb Sun (180G Gate-Fold 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6847&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6847&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[36,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006847_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Playing The Heart (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5832&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5832&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[40,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005832_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
