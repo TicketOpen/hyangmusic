@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 17:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예지 (Yaeji) / 오혁 (Ohhyuk)
+														Year To Year / 29 (7 INCH SINGLE LP) [MP3 DOWN CODE] (1인 1매 구매) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1303&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1303&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[20,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001303_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														달리와 감자탕 (KBS 2TV 수목 드라마) [예약판매] [브로마이드]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1792&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1792&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[17,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001792_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars / Anderson .Paak / Silk Sonic
+														An Evening With Silk Sonic [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=FUSO&amp;code=3412&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=FUSO&amp;code=3412&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[18,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/FUSO/FUSO-003412_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤하 (Younha)
 														6집 - End Theory (포스터 케이스 증정) [예약판매]]]></title>
@@ -15,6 +42,15 @@
             <pubDate>Tue, 09 Nov 2021 17:45:28 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008783_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시나위
+														4집 - Four (180G LPRED COLOURED LP) [1인 1매 구매] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1297&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1297&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001297_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몽니 (Monni)
@@ -42,42 +78,6 @@
             <pubDate>Mon, 08 Nov 2021 05:37:59 GMT</pubDate>
             <content:encoded><![CDATA[9,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005266_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박경찬
-														잊혀진 날들 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8782&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8782&amp;album_mode=music</guid>
-            <pubDate>Mon, 08 Nov 2021 05:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[12,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008782_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤시내
-														1집 - 새 노래 모음 (180G AUDIOPHILE LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1174&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1174&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001174_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														인간실격 (JTBC 10주년 특별기획) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1791&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1791&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[20,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001791_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지올 팍 (Zior Park)
-														Syndromez [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=899&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=899&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000899_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

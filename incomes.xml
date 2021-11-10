@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 17:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장필순
+														7집 - Soony Seven (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8743&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8743&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008743_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강아솔
+														3집 - 사랑의 시절]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4387&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4387&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004387_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마리아 킴 (Maria Kim)
+														With Strings: Dream Of You]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2562&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2562&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002562_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정원영
+														8집 - 볕]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2557&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2557&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[19,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002557_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제리황 (Jerry Hwang)
 														Sludge]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
             <content:encoded><![CDATA[12,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008170_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[렉시 (Lexy)
-														3집 - Rush]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=2583&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=2583&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[9,900 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-002583_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새소년 (Se So Neon)
-														비적응 (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4960&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4960&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[14,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004960_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸딩 (Pudding)
-														1집 - If I Could Meet Again (180G Gate-Fold 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2524&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2524&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[53,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002524_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이 앤트 메리 (My Aunt Mary)
-														5집 - Circle (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5240&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5240&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005240_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
