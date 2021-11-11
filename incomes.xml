@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 05:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,6 +17,60 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008743_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나윤선
+														3집 - Down By Love (재발매)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=111&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=111&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-000111_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slipknot
+														Slipknot (DIGI-PAK)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CORE&amp;code=646&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CORE&amp;code=646&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CORE/CORE-000646_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zard
+														Forever Best ~25th Anniversary~]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=POPJ&amp;code=2631&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=POPJ&amp;code=2631&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[21,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/POPJ/POPJ-002631_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Jarrett
+														My Song]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=925&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=925&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[18,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/FUSI/FUSI-000925_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Noel Gallagher's High Flying Birds
+														Back The Way We Came: Vol. 1 (3CD HARD BOOK)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3903&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3903&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[23,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003903_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton
+														Slowhand At 70: Live At The Royal Albert Hall (2CD & DVD)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=5594&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=5594&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[24,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-005594_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강아솔
 														3집 - 사랑의 시절]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4387&amp;album_mode=music</link>
@@ -24,60 +78,6 @@
             <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
             <content:encoded><![CDATA[13,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004387_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리아 킴 (Maria Kim)
-														With Strings: Dream Of You]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2562&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2562&amp;album_mode=music</guid>
-            <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002562_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원영
-														8집 - 볕]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2557&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2557&amp;album_mode=music</guid>
-            <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[19,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002557_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제리황 (Jerry Hwang)
-														Sludge]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5258&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5258&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005258_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이센스 (E SENS)
-														이방인 (일반반) [재발매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=786&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=786&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[12,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000786_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이센스 (E SENS)
-														The Anecdote (일반반) [재발매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=988&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=988&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[12,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-000988_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문진오
-														독립 운동가의 노래]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8170&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8170&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Nov 2021 17:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[12,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008170_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
