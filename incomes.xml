@@ -4,9 +4,54 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 17:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 (Twice)
+														Formula Of Love: O+t= [브로마이드]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8750&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8750&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008750_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지올 팍 (Zior Park)
+														Syndromez]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=899&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=899&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000899_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정차식
+														집행자]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=3651&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=3651&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[12,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-003651_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lathums
+														How Beautiful Life Can Be]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8747&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8747&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008747_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ABBA
+														Voyage]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=OLDP&amp;code=4300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=OLDP&amp;code=4300&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/OLDP/OLDP-004300_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미노이 (Meenoi)
 														1집 - In My Room]]></title>
@@ -33,51 +78,6 @@
             <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008743_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤선
-														3집 - Down By Love (재발매)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=111&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=111&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[12,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-000111_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slipknot
-														Slipknot (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CORE&amp;code=646&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CORE&amp;code=646&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[12,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CORE/CORE-000646_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zard
-														Forever Best ~25th Anniversary~]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=POPJ&amp;code=2631&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=POPJ&amp;code=2631&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[21,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/POPJ/POPJ-002631_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett
-														My Song]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=925&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=925&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[18,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/FUSI/FUSI-000925_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Noel Gallagher's High Flying Birds
-														Back The Way We Came: Vol. 1 (3CD HARD BOOK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3903&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3903&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[23,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003903_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
