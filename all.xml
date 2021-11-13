@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 17:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 05:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,7 +103,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=3651&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=3651&amp;album_mode=music</guid>
             <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[12,600 원]]></content:encoded>
+            <content:encoded><![CDATA[14,100]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-003651_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
