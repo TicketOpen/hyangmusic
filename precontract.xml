@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 17:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3 세일러스 (3 Sailors)
+														소소 (SoSo) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</guid>
+            <pubDate>Mon, 15 Nov 2021 17:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[12,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002563_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자판기유자차 (VMCT)
+														The Venmacitea [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</guid>
+            <pubDate>Mon, 15 Nov 2021 17:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[14,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005271_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장우혁
 														어때 Tonight (3인치 싱글) [예약판매]]]></title>
@@ -24,6 +42,15 @@
             <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
             <content:encoded><![CDATA[11,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008787_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정서용
+														1집 - 휴가, 혼자서도 (140G SILVER COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8786&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8786&amp;album_mode=music</guid>
+            <pubDate>Mon, 15 Nov 2021 17:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008786_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임형주
@@ -51,33 +78,6 @@
             <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001176_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박혜성
-														1집 - 경아 / 소녀의 반지 (180G NATURAL TRANSPARENT COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1175&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1175&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001175_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두희 (Jun Doohee)
-														This Is Not [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5270&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5270&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005270_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암호
-														The Piece [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</guid>
-            <pubDate>Mon, 15 Nov 2021 05:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[12,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001298_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

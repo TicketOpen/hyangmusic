@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 17:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신승은 (Shin Seung Eun)
+														1집 - 넌 별로 날 안 좋아해 [3~5일 후 발송]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4040&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4040&amp;album_mode=music</guid>
+            <pubDate>Mon, 15 Nov 2021 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[10,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004040_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[James Blake
+														Friends That Break Your Heart (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2283&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2283&amp;album_mode=music</guid>
+            <pubDate>Mon, 15 Nov 2021 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[36,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002283_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arts Symphony Orchestra
+														Studio Ghibli - Symphony Live Concert (180G SILVER COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4711&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4711&amp;album_mode=music</guid>
+            <pubDate>Mon, 15 Nov 2021 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[43,100]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004711_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 (Twice)
 														Formula Of Love: O+t= [브로마이드]]]></title>
@@ -36,7 +63,7 @@
         </item>
         <item>
             <title><![CDATA[Lathums
-														How Beautiful Life Can Be]]></title>
+														How Beautiful Life Can Be [3~5일 후 발송]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8747&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8747&amp;album_mode=music</guid>
             <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
@@ -51,33 +78,6 @@
             <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/OLDP/OLDP-004300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미노이 (Meenoi)
-														1집 - In My Room]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8774&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8774&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[29,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008774_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 (Nerd Connection)
-														New Century Masterpiece Cinema]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5264&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5264&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005264_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순
-														7집 - Soony Seven (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8743&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8743&amp;album_mode=music</guid>
-            <pubDate>Wed, 10 Nov 2021 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008743_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
