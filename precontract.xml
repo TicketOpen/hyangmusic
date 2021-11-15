@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
             <content:encoded><![CDATA[11,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008787_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정서용
-														1집 - 휴가, 혼자서도 (140G SILVER COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8786&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8786&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008786_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임형주
@@ -78,6 +69,15 @@
             <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
             <content:encoded><![CDATA[14,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005270_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[암호
+														The Piece [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</guid>
+            <pubDate>Mon, 15 Nov 2021 05:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[12,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001298_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
