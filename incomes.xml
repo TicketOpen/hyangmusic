@@ -4,9 +4,54 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 17:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤하 (Younha)
+														6집 - End Theory (포스터 케이스 증정)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8783&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8783&amp;album_mode=music</guid>
+            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008783_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift
+														Red (DELUXE EDITION)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=5960&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=5960&amp;album_mode=music</guid>
+            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[16,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-005960_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson
+														Islands (CD & DVD) [40TH ANNIVERSARY EDITION REMASTERED]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4246&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4246&amp;album_mode=music</guid>
+            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[29,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-004246_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson
+														In The Court Of The Crimson King (40TH ANNIVERSARY EDITION REMASTERED 2CD EXPANDED)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4304&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4304&amp;album_mode=music</guid>
+            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[21,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-004304_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saint Etienne
+														I've Been Trying To Tell You]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8718&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8718&amp;album_mode=music</guid>
+            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[21,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008718_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Radiohead
 														Kid A Mnesia]]></title>
@@ -33,51 +78,6 @@
             <pubDate>Tue, 16 Nov 2021 05:38:23 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008782_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신승은 (Shin Seung Eun)
-														1집 - 넌 별로 날 안 좋아해 [3~5일 후 발송]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4040&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4040&amp;album_mode=music</guid>
-            <pubDate>Mon, 15 Nov 2021 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[10,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004040_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James Blake
-														Friends That Break Your Heart (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2283&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2283&amp;album_mode=music</guid>
-            <pubDate>Mon, 15 Nov 2021 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[36,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002283_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arts Symphony Orchestra
-														Studio Ghibli - Symphony Live Concert (180G SILVER COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4711&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4711&amp;album_mode=music</guid>
-            <pubDate>Mon, 15 Nov 2021 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[43,100]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004711_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 (Twice)
-														Formula Of Love: O+t= [브로마이드]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8750&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8750&amp;album_mode=music</guid>
-            <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008750_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지올 팍 (Zior Park)
-														Syndromez]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=899&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=899&amp;album_mode=music</guid>
-            <pubDate>Fri, 12 Nov 2021 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000899_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
