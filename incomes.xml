@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 17:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 05:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전두희 (Jun Doohee)
+														This Is Not]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5270&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5270&amp;album_mode=music</guid>
+            <pubDate>Wed, 17 Nov 2021 05:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005270_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정차식
+														집행자]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=3651&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=3651&amp;album_mode=music</guid>
+            <pubDate>Wed, 17 Nov 2021 05:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[12,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-003651_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정밀아
+														1집 - 그리움도 병 (재발매)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5269&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5269&amp;album_mode=music</guid>
+            <pubDate>Wed, 17 Nov 2021 05:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005269_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정밀아
+														2집 - 은하수 (재발매)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4288&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4288&amp;album_mode=music</guid>
+            <pubDate>Wed, 17 Nov 2021 05:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[13,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004288_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤하 (Younha)
 														6집 - End Theory (포스터 케이스 증정)]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
             <content:encoded><![CDATA[21,900 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-004304_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saint Etienne
-														I've Been Trying To Tell You]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8718&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8718&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[21,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008718_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead
-														Kid A Mnesia]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3922&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3922&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[22,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003922_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영
-														이주영 (WHITE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5242&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5242&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005242_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박경찬
-														잊혀진 날들]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8782&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8782&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 05:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008782_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
