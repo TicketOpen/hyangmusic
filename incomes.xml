@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Heart
+														Greatest Hits]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=557&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=557&amp;album_mode=music</guid>
+            <pubDate>Thu, 18 Nov 2021 17:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-000557_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리코 (Rico)
+														The Slow Tape (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1302&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1302&amp;album_mode=music</guid>
+            <pubDate>Thu, 18 Nov 2021 17:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001302_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전두희 (Jun Doohee)
 														This Is Not]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
             <content:encoded><![CDATA[16,900 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-005960_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Crimson
-														Islands (CD & DVD) [40TH ANNIVERSARY EDITION REMASTERED]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4246&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4246&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[29,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-004246_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Crimson
-														In The Court Of The Crimson King (40TH ANNIVERSARY EDITION REMASTERED 2CD EXPANDED)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=4304&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[21,900 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-004304_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

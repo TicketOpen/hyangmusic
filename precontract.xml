@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송영주
+														Jazz Meets Hymns 3 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</guid>
+            <pubDate>Thu, 18 Nov 2021 17:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[16,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카코포니 (Cacophony)
+														Reborn (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</guid>
+            <pubDate>Thu, 18 Nov 2021 17:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[15,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005273_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타임플라워 (Time Flower)
 														Dreamer [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Mon, 15 Nov 2021 17:45:06 GMT</pubDate>
             <content:encoded><![CDATA[12,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002563_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자판기유자차 (VMCT)
-														The Venmacitea [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</guid>
-            <pubDate>Mon, 15 Nov 2021 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[14,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005271_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장우혁
-														어때 Tonight (3인치 싱글) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8788&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8788&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[15,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008788_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
