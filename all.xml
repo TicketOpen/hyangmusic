@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 17:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어반자카파 (Urban Zakapa)
+														이별 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[8,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001304_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift
+														Red (TAYLOR’S VERSION) [4LP] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[74,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008602_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift
 														Red (TAYLOR’S VERSION) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
@@ -62,22 +80,13 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008790_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이승윤
-														1집 - 폐허가 된다 해도 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8789&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8789&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[18,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008789_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 (Jaurim)
-														11집 - 영원한 사랑 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1299&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1299&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[36,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001299_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Nirvana
+														Nevermind (2CD DELUXE EDITION / REMASTERED) [DIGI-PAK] [3~5일 후 발송] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=4020&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=4020&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[14,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-004020_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nirvana
@@ -143,13 +152,20 @@
             <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001302_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전두희 (Jun Doohee)
-														This Is Not (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5270&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5270&amp;album_mode=music</guid>
-            <pubDate>Wed, 17 Nov 2021 05:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005270_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이별 (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1304&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1304&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[어반자카파 (Urban Zakapa)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001304_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red (TAYLOR’S VERSION) [4LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8602&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8602&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[Taylor Swift]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008602_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red (TAYLOR’S VERSION) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -205,7 +221,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8789&amp;album_mode=music</guid>
             <pubDate>Tue, 16 Nov 2021 17:41:05 GMT</pubDate>
             <content:encoded><![CDATA[이승윤]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008789_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[11집 - 영원한 사랑 (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -213,7 +229,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1299&amp;album_mode=music</guid>
             <pubDate>Tue, 16 Nov 2021 17:41:05 GMT</pubDate>
             <content:encoded><![CDATA[자우림 (Jaurim)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001299_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[About Extinction (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -296,20 +312,12 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[The Piece (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1298&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1298&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[암호]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:t-Ara (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8784&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8784&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Nov 2021 17:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[티아라 (T-Ara)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <title><![CDATA[Nevermind (2CD DELUXE EDITION / REMASTERED) [DIGI-PAK] (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=4020&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=4020&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 17:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[Nirvana]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-004020_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nevermind (30TH ANNIVERSARY EDITION) [Gate-Fold 180G LP & 7인치 싱글] (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -381,7 +389,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=3651&amp;album_mode=music</guid>
             <pubDate>Fri, 12 Nov 2021 05:39:00 GMT</pubDate>
             <content:encoded><![CDATA[정차식]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-003651_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2집 - 은하수 (재발매) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -461,14 +469,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=4040&amp;album_mode=music</guid>
             <pubDate>Mon, 15 Nov 2021 17:45:33 GMT</pubDate>
             <content:encoded><![CDATA[신승은 (Shin Seung Eun)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Friends That Break Your Heart (LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=TEEN&amp;code=2283&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=TEEN&amp;code=2283&amp;album_mode=music</guid>
-            <pubDate>Mon, 15 Nov 2021 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[James Blake]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
