@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 17:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift
+														Red (TAYLOR’S VERSION) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 05:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[25,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008601_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영
+														발라드 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5274&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5274&amp;album_mode=music</guid>
+            <pubDate>Fri, 19 Nov 2021 05:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[19,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005274_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송영주
 														Jazz Meets Hymns 3 [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 16 Nov 2021 17:40:44 GMT</pubDate>
             <content:encoded><![CDATA[36,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001299_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스모킹구스 (Smoking Goose)
-														About Extinction [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5272&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5272&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Nov 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[15,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005272_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 세일러스 (3 Sailors)
-														소소 (SoSo) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</guid>
-            <pubDate>Mon, 15 Nov 2021 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[12,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002563_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
