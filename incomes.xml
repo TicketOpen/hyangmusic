@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 05:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 17:44:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너드커넥션 (Nerd Connection)
+														New Century Masterpiece Cinema]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5264&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5264&amp;album_mode=music</guid>
+            <pubDate>Sat, 20 Nov 2021 17:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005264_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블루 (Bloo)
+														Moon And Back (사인CD 랜덤 발송)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=898&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=898&amp;album_mode=music</guid>
+            <pubDate>Sat, 20 Nov 2021 17:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000898_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nirvana
 														Nevermind (2CD DELUXE EDITION / REMASTERED) [DIGI-PAK]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 19 Nov 2021 05:38:20 GMT</pubDate>
             <content:encoded><![CDATA[20,800]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001791_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heart
-														Greatest Hits]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=557&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=557&amp;album_mode=music</guid>
-            <pubDate>Thu, 18 Nov 2021 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-000557_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리코 (Rico)
-														The Slow Tape (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1302&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1302&amp;album_mode=music</guid>
-            <pubDate>Thu, 18 Nov 2021 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001302_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
