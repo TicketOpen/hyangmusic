@@ -4,9 +4,63 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 17:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 05:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재훈
+														S.W.I.M]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2561&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2561&amp;album_mode=music</guid>
+            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[14,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002561_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Benny Benassi
+														This Is Who I Am - Best Of Benny Benassi From 2003 To 2016]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=2854&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=2854&amp;album_mode=music</guid>
+            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[14,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLUB/CLUB-002854_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코토바 (Cotoba)
+														세상은 곧 끝나니까]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5181&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5181&amp;album_mode=music</guid>
+            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[12,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005181_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야광토끼
+														3집 - Kosmos]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5151&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5151&amp;album_mode=music</guid>
+            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[13,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005151_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서사무엘
+														The Misfit]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=800&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=800&amp;album_mode=music</guid>
+            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[15,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000800_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넘넘
+														넘]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4772&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4772&amp;album_mode=music</guid>
+            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[9,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004772_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너드커넥션 (Nerd Connection)
 														New Century Masterpiece Cinema]]></title>
@@ -24,60 +78,6 @@
             <pubDate>Sat, 20 Nov 2021 17:43:39 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000898_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana
-														Nevermind (2CD DELUXE EDITION / REMASTERED) [DIGI-PAK]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=4020&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=4020&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 17:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-004020_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana
-														Nevermind (30TH ANNIVERSARY EDITION) [Gate-Fold 180G LP & 7인치 싱글]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5559&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5559&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 05:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[49,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005559_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sex Pistols
-														76-77 (BOX SET)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=PUNK&amp;code=2164&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=PUNK&amp;code=2164&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 05:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[70,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/PUNK/PUNK-002164_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay
-														Music Of The Spheres]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3921&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3921&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 05:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[16,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003921_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정밀아
-														1집 - 그리움도 병 (재발매)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5269&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5269&amp;album_mode=music</guid>
-            <pubDate>Wed, 17 Nov 2021 05:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005269_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														인간실격 (JTBC 10주년 특별기획)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1791&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1791&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 05:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[20,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001791_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
