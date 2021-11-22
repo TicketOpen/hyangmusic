@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 17:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Adele
+														30]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8588&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8588&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Nov 2021 05:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008588_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists
+														스트릿 우먼 파이터 (SWF) [SPECIAL]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=894&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=894&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Nov 2021 05:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000894_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재훈
 														S.W.I.M]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
             <content:encoded><![CDATA[9,800 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004772_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 (Nerd Connection)
-														New Century Masterpiece Cinema]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5264&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5264&amp;album_mode=music</guid>
-            <pubDate>Sat, 20 Nov 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005264_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루 (Bloo)
-														Moon And Back (사인CD 랜덤 발송)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=898&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=898&amp;album_mode=music</guid>
-            <pubDate>Sat, 20 Nov 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000898_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
