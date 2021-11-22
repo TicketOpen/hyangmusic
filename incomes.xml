@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 17:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Adele
+														30 (2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8587&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8587&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Nov 2021 17:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[45,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008587_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adele
+														30 (CLEAR COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8589&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8589&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Nov 2021 17:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[55,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008589_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Adele
 														30]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
             <content:encoded><![CDATA[13,500 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005151_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서사무엘
-														The Misfit]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=800&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=800&amp;album_mode=music</guid>
-            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[15,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000800_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넘넘
-														넘]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4772&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4772&amp;album_mode=music</guid>
-            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[9,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004772_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
