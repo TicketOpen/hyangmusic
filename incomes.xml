@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스핏온마이툼 (Spit On My Tomb)
+														Necrosis]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5279&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5279&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005279_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 언더그라운드 (The Black Underground)
+														Melancholy Green]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5253&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5253&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[11,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005253_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김동률
+														Thanks: The Best Songs 1994-2004 (재발매)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=2472&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=2472&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-002472_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넬 (Nell)
+														4집 - Separation Anxiety]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=958&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=958&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[9,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-000958_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[George Winston
 														December (DIGI-PAK)]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
             <content:encoded><![CDATA[26,700]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008601_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adele
-														30 (2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8587&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8587&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 17:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[45,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008587_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adele
-														30 (CLEAR COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8589&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8589&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 17:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[55,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008589_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adele
-														30]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8588&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8588&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 05:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008588_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														스트릿 우먼 파이터 (SWF) [SPECIAL]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=894&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=894&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 05:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000894_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
