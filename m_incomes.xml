@@ -4,9 +4,41 @@
         <title>모바일 향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 17:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[December (DIGI-PAK)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WAGE&amp;code=2241&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WAGE&amp;code=2241&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[George Winston]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WAGE/WAGE-002241_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[If You're Feeling Sinister]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=558&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=558&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[Belle And Sebastian]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-000558_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red (TAYLOR’S VERSION) [4LP]]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8602&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8602&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[Taylor Swift]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008602_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red (TAYLOR’S VERSION)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8601&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8601&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[Taylor Swift]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008601_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30 (2LP)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8587&amp;album_mode=music</link>
@@ -53,7 +85,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLUB&amp;code=2854&amp;album_mode=music</guid>
             <pubDate>Sun, 21 Nov 2021 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[Benny Benassi]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLUB/CLUB-002854_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[세상은 곧 끝나니까]]></title>
@@ -61,7 +93,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5181&amp;album_mode=music</guid>
             <pubDate>Sun, 21 Nov 2021 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[코토바 (Cotoba)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005181_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[3집 - Kosmos]]></title>
@@ -69,7 +101,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5151&amp;album_mode=music</guid>
             <pubDate>Sun, 21 Nov 2021 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[야광토끼]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005151_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[The Misfit]]></title>
@@ -77,7 +109,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=800&amp;album_mode=music</guid>
             <pubDate>Sun, 21 Nov 2021 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[서사무엘]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000800_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[넘]]></title>
@@ -133,38 +165,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3921&amp;album_mode=music</guid>
             <pubDate>Fri, 19 Nov 2021 05:38:42 GMT</pubDate>
             <content:encoded><![CDATA[Coldplay]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[1집 - 그리움도 병 (재발매)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5269&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5269&amp;album_mode=music</guid>
-            <pubDate>Wed, 17 Nov 2021 05:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[정밀아]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[인간실격 (JTBC 10주년 특별기획)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1791&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1791&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 05:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Greatest Hits]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=OLDR&amp;code=557&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=OLDR&amp;code=557&amp;album_mode=music</guid>
-            <pubDate>Thu, 18 Nov 2021 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[Heart]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[The Slow Tape (LP)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1302&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1302&amp;album_mode=music</guid>
-            <pubDate>Thu, 18 Nov 2021 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 17:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[George Winston
+														December (DIGI-PAK)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2241&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2241&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[15,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WAGE/WAGE-002241_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belle And Sebastian
+														If You're Feeling Sinister]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=558&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=558&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[12,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-000558_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift
+														Red (TAYLOR’S VERSION) [4LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[78,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008602_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift
+														Red (TAYLOR’S VERSION)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[26,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008601_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Adele
 														30 (2LP)]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Mon, 22 Nov 2021 05:38:15 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000894_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재훈
-														S.W.I.M]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2561&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2561&amp;album_mode=music</guid>
-            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[14,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002561_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benny Benassi
-														This Is Who I Am - Best Of Benny Benassi From 2003 To 2016]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=2854&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=2854&amp;album_mode=music</guid>
-            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[14,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLUB/CLUB-002854_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코토바 (Cotoba)
-														세상은 곧 끝나니까]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5181&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5181&amp;album_mode=music</guid>
-            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[12,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005181_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야광토끼
-														3집 - Kosmos]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5151&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5151&amp;album_mode=music</guid>
-            <pubDate>Sun, 21 Nov 2021 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[13,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005151_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

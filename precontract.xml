@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 17:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무당
-														1집 - 그대 생각 / 잊지 못할 그녀 (180G ORANGE COLOURED LP) [1인 1매 주문] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1177&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1177&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 17:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001177_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어반자카파 (Urban Zakapa)
 														이별 [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</link>
@@ -42,24 +33,6 @@
             <pubDate>Fri, 19 Nov 2021 17:44:25 GMT</pubDate>
             <content:encoded><![CDATA[8,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001304_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift
-														Red (TAYLOR’S VERSION) [4LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 17:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[74,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008602_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift
-														Red (TAYLOR’S VERSION) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 05:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[25,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008601_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주영
@@ -78,6 +51,33 @@
             <pubDate>Thu, 18 Nov 2021 17:42:31 GMT</pubDate>
             <content:encoded><![CDATA[16,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카코포니 (Cacophony)
+														Reborn (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[15,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005273_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타임플라워 (Time Flower)
+														Dreamer [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[15,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008791_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가호 (Gaho)
+														1집 - Fireworks [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8790&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8790&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Nov 2021 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[16,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008790_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
