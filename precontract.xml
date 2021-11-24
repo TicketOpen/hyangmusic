@@ -4,9 +4,54 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 17:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미란이 (Mirani)
+														Uptown Girl [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000900_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장우혁
+														어때 Tonight (COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[31,200]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008793_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잭킹콩 (Jackingcong)
+														At My Peaceful Garden (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1307&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1307&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[16,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001307_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잭킹콩 (Jackingcong)
+														Dress Code [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1306&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1306&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[18,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001306_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazzy Han
+														On The Jazzy Side Of The Crib [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1305&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1305&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001305_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게르다 (Gerda)
 														Didi [예약판매]]]></title>
@@ -33,51 +78,6 @@
             <pubDate>Tue, 23 Nov 2021 17:43:19 GMT</pubDate>
             <content:encoded><![CDATA[14,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008792_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오딘 (Oathean)
-														6집 - The Endless Pain And Darkness [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5276&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5276&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 17:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005276_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아톰뮤직하트
-														망명자 이즘 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 17:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[22,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어반자카파 (Urban Zakapa)
-														이별 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</guid>
-            <pubDate>Fri, 19 Nov 2021 17:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[8,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001304_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송영주
-														Jazz Meets Hymns 3 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[16,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타임플라워 (Time Flower)
-														Dreamer [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[15,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008791_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
