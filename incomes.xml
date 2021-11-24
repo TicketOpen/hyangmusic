@@ -4,9 +4,72 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 17:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 05:38:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주영
+														발라드]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5274&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5274&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005274_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카코포니 (Cacophony)
+														Reborn (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005273_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스모킹구스 (Smoking Goose)
+														About Extinction]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5272&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5272&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005272_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자판기유자차 (VMCT)
+														The Venmacitea]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005271_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 세일러스 (3 Sailors)
+														소소 (SoSo)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[12,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002563_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심규선 (Lucia)
+														소로 (小路) [사인CD 랜덤 발송]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5255&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5255&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[23,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005255_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽니 (Monni)
+														5집 - Firmament]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5268&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5268&amp;album_mode=music</guid>
+            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005268_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스핏온마이툼 (Spit On My Tomb)
 														Necrosis]]></title>
@@ -15,69 +78,6 @@
             <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005279_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙 언더그라운드 (The Black Underground)
-														Melancholy Green]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5253&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5253&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[11,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005253_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률
-														Thanks: The Best Songs 1994-2004 (재발매)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=2472&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=2472&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[13,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-002472_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넬 (Nell)
-														4집 - Separation Anxiety]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=958&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=958&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 17:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[9,900 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-000958_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Winston
-														December (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2241&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WAGE&amp;code=2241&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[15,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WAGE/WAGE-002241_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belle And Sebastian
-														If You're Feeling Sinister]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=558&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=558&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[12,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-000558_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift
-														Red (TAYLOR’S VERSION) [4LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8602&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[78,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008602_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift
-														Red (TAYLOR’S VERSION)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8601&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 05:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[26,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008601_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
