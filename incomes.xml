@@ -4,80 +4,80 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Beatles
-														Let It Be (50TH ANNIVERSARY) [SUPER DELUXE 5LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6893&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6893&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 17:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[221,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-006893_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[장우혁
+														어때 Tonight (3인치 싱글)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8788&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8788&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008788_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정서용
-														1집 - 휴가, 혼자서도 (140G SILVER COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8786&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8786&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 17:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008786_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[장우혁
+														어때 Tonight (카세트 테잎)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8787&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8787&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[12,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008787_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이주영
-														발라드]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5274&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5274&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005274_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이승윤
+														1집 - 폐허가 된다 해도]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8789&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8789&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[20,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008789_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sia
+														Everyday Is Christmas (DELUXE)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=TRIP&amp;code=583&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=TRIP&amp;code=583&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[14,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/TRIP/TRIP-000583_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타임플라워 (Time Flower)
+														Dreamer]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[16,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008791_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가호 (Gaho)
+														1집 - Fireworks]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8790&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8790&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008790_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박경찬
+														잊혀진 날들]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8782&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8782&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008782_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카코포니 (Cacophony)
-														Reborn (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5273&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005273_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스모킹구스 (Smoking Goose)
-														About Extinction]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5272&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5272&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005272_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자판기유자차 (VMCT)
-														The Venmacitea]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5271&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005271_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 세일러스 (3 Sailors)
-														소소 (SoSo)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2563&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[12,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002563_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심규선 (Lucia)
-														소로 (小路) [사인CD 랜덤 발송]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5255&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5255&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 05:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[23,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005255_s.jpg" length="0" type="image/jpg"/>
+														2집 - 夢 (DREAM)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4895&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4895&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004895_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
