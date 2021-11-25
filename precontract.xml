@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이그린
+														Color (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[10,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보수동쿨러 (Bosudong Cooler)
+														1집 - 모래 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[19,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005280_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언오피셜보이 (Unofficialboyy)
+														이수린 Ackermann [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1308&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1308&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[15,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001308_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미란이 (Mirani)
 														Uptown Girl [예약판매]]]></title>
@@ -51,33 +78,6 @@
             <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
             <content:encoded><![CDATA[13,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001305_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게르다 (Gerda)
-														Didi [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5278&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5278&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 17:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[18,900 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005278_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤숭
-														그 방을 열고 나올 사람은 나밖에 없네 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 17:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[12,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005277_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2F (신용재 / 김원주)
-														If [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Nov 2021 17:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008792_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
