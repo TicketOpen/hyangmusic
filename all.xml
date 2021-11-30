@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8794&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8794&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[12,000 원]]></content:encoded>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008794_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -22,7 +22,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[9,800 원]]></content:encoded>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,7 +40,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[11,300 원]]></content:encoded>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005282_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -49,7 +49,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</guid>
             <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[10,500 원]]></content:encoded>
+            <content:encoded><![CDATA[11,100]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,7 +58,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</guid>
             <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[19,000 원]]></content:encoded>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005280_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,8 +76,53 @@
             <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</guid>
             <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,100 원]]></content:encoded>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000900_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Plant / Alison Krauss
+														Raise The Roof (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8607&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8607&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Nov 2021 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008607_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Plant / Alison Krauss
+														Raise The Roof (DELUXE EDITION) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8608&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8608&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Nov 2021 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[24,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008608_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[War On Drugs
+														I Don T Live Here Anymore (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8749&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8749&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Nov 2021 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008749_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hook
+														Will Grab You (REMASTERED) [LP MINIATURE] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6438&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6438&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Nov 2021 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006438_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roger Taylor
+														Outsider (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8611&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8611&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Nov 2021 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[18,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008611_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pretenders
@@ -103,53 +148,8 @@
             <link>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=3336&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=3336&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[13,200 원]]></content:encoded>
+            <content:encoded><![CDATA[14,700]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/FUSI/FUSI-003336_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jazzy Han
-														On The Jazzy Side Of The Crib (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1305&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1305&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
-            <content:encoded><![CDATA[13,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001305_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 (Jaurim)
-														11집 - 영원한 사랑 (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1299&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1299&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[38,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001299_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James Blunt
-														The Stars Beneath My Feet (2004-2021) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8605&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8605&amp;album_mode=music</guid>
-            <pubDate>Fri, 26 Nov 2021 17:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[28,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008605_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honne
-														Let's Just Say The World Ended A Week From Now What Would You Do? (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1828&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1828&amp;album_mode=music</guid>
-            <pubDate>Fri, 26 Nov 2021 17:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[22,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/SYNP/SYNP-001828_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana
-														Nevermind (2CD DELUXE EDITION) [REMASTERED] (30TH ANNIVERSARY) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5547&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5547&amp;album_mode=music</guid>
-            <pubDate>Fri, 26 Nov 2021 17:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[27,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005547_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blue (모바일 향뮤직 ─ 예약 음반)]]></title>
