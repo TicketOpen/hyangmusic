@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 17:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어반자카파 (Urban Zakapa)
+														이별]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Dec 2021 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[8,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001304_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게르다 (Gerda)
 														Didi]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 30 Nov 2021 17:43:10 GMT</pubDate>
             <content:encoded><![CDATA[18,800]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008611_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pretenders
-														Pretenders (DELUXE EDITION) [REMASTERED]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1829&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1829&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/SYNP/SYNP-001829_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
