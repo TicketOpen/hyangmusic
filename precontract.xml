@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 17:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보수동쿨러 (Bosudong Cooler)
-														1집 - 모래 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005280_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[언오피셜보이 (Unofficialboyy)
 														이수린 Ackermann [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1308&amp;album_mode=music</link>
@@ -78,6 +69,15 @@
             <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000900_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장우혁
+														어때 Tonight (COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Dec 2021 05:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[31,200]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008793_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
