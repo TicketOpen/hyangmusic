@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 17:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,51 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005277_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Echo And The Bunnymen
+														Heaven Up Here (180G REMASTERED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3937&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3937&amp;album_mode=music</guid>
+            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[33,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003937_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Echo And The Bunnymen
+														Ocean Rain (180G REMASTERED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</guid>
+            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[33,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003936_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Makaya Mccraven
+														Deciphering The Message (LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=9660&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=9660&amp;album_mode=music</guid>
+            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[30,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/STAN/STAN-009660_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Violent Femmes
+														Why Do Birds Sing? (REMASTERED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3939&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3939&amp;album_mode=music</guid>
+            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003939_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carol King & James Taylor
+														Live At Troubadour (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6439&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6439&amp;album_mode=music</guid>
+            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[52,100]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006439_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보수동쿨러 (Bosudong Cooler)
 														1집 - 모래 (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</link>
@@ -105,51 +150,6 @@
             <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
             <content:encoded><![CDATA[19,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001306_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언오피셜보이 (Unofficialboyy)
-														이수린 Ackermann (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1308&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1308&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[15,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001308_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사
-														Guilty Pleasure (SINGLE) [브로마이드] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8785&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8785&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008785_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티아라 (T-Ara)
-														Re:t-Ara (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8784&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8784&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008784_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오딘 (Oathean)
-														6집 - The Endless Pain And Darkness (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5276&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5276&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005276_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어반자카파 (Urban Zakapa)
-														이별 (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1304&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Dec 2021 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[8,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001304_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blue (모바일 향뮤직 ─ 예약 음반)]]></title>
