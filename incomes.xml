@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 17:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003936_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Makaya Mccraven
+            <title><![CDATA[Makaya McCraven
 														Deciphering The Message (LP)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=9660&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=9660&amp;album_mode=music</guid>
