@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 17:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야다 (Yada)
+														1집 - Wear To Healing Yada (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8764&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8764&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Dec 2021 05:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008764_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														올인 (SBS 대기획 드라마) [180G LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1789&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1789&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Dec 2021 05:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001789_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Echo And The Bunnymen
 														Heaven Up Here (180G REMASTERED LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005280_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잭킹콩 (Jackingcong)
-														At My Peaceful Garden (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1307&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1307&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001307_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잭킹콩 (Jackingcong)
-														Dress Code]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1306&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1306&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001306_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
