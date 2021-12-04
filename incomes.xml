@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 17:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 05:39:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미란이 (Mirani)
+														Uptown Girl]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</guid>
+            <pubDate>Sat, 04 Dec 2021 05:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000900_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야다 (Yada)
 														1집 - Wear To Healing Yada (180G LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
             <content:encoded><![CDATA[52,100]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006439_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수동쿨러 (Bosudong Cooler)
-														1집 - 모래]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5280&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005280_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

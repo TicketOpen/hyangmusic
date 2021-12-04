@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 17:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 05:39:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[권나무
-														1집 - 그림 (CLEAR COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5283&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5283&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[48,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005283_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유라시아 (Eurasia)
 														Ø (파이) [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</link>
@@ -53,15 +44,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미란이 (Mirani)
-														Uptown Girl [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Nov 2021 17:45:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000900_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[장우혁
 														어때 Tonight (COLOURED LP) [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</link>
@@ -78,6 +60,24 @@
             <pubDate>Thu, 02 Dec 2021 05:38:29 GMT</pubDate>
             <content:encoded><![CDATA[12,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005277_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2F (신용재 / 김원주)
+														If [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</guid>
+            <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[14,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008792_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아톰뮤직하트
+														망명자 이즘 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</guid>
+            <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[22,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
