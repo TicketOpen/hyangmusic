@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임플라워 (Time Flower)
+														Dreamer]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Dec 2021 17:37:41 GMT</pubDate>
+            <content:encoded><![CDATA[16,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008791_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미란이 (Mirani)
 														Uptown Girl]]></title>
@@ -40,7 +49,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3937&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3937&amp;album_mode=music</guid>
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[33,900]]></content:encoded>
+            <content:encoded><![CDATA[27,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003937_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -49,7 +58,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</guid>
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[33,900]]></content:encoded>
+            <content:encoded><![CDATA[27,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003936_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003939_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carol King & James Taylor
-														Live At Troubadour (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6439&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6439&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[52,100]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006439_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

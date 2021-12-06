@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8794&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8794&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <content:encoded><![CDATA[10,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008794_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -22,7 +22,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <content:encoded><![CDATA[8,300 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -31,7 +31,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <content:encoded><![CDATA[9,500 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005282_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,7 +40,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</guid>
             <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[11,100]]></content:encoded>
+            <content:encoded><![CDATA[8,800 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,7 +58,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</guid>
             <pubDate>Thu, 02 Dec 2021 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[12,600 원]]></content:encoded>
+            <content:encoded><![CDATA[11,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005277_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -67,7 +67,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</guid>
             <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[14,600 원]]></content:encoded>
+            <content:encoded><![CDATA[13,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008792_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
