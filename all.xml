@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 17:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
             <content:encoded><![CDATA[10,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008794_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투 데이 올드 스니커즈 (2 Day Old Sneakers)
-														여기서 빛난다 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[8,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유라시아 (Eurasia)
@@ -80,6 +71,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송영주
+														Jazz Meets Hymns 3 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</guid>
+            <pubDate>Tue, 07 Dec 2021 17:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[14,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[타임플라워 (Time Flower)
 														Dreamer (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</link>
@@ -121,7 +121,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3937&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3937&amp;album_mode=music</guid>
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[27,100 원]]></content:encoded>
+            <content:encoded><![CDATA[33,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003937_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -130,7 +130,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</guid>
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[27,100 원]]></content:encoded>
+            <content:encoded><![CDATA[33,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003936_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,14 +158,6 @@
             <pubDate>Mon, 29 Nov 2021 17:46:08 GMT</pubDate>
             <content:encoded><![CDATA[루시 (Lucy)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008794_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기서 빛난다 (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[투 데이 올드 스니커즈 (2 Day Old Sneakers)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ø (파이) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -221,7 +213,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2564&amp;album_mode=music</guid>
             <pubDate>Thu, 18 Nov 2021 17:42:51 GMT</pubDate>
             <content:encoded><![CDATA[송영주]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Piece (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -304,12 +296,28 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[여기서 빛난다 (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
+            <pubDate>Mon, 29 Nov 2021 17:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[투 데이 올드 스니커즈 (2 Day Old Sneakers)]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[1집 - 그림 (CLEAR COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5283&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5283&amp;album_mode=music</guid>
             <pubDate>Mon, 29 Nov 2021 17:46:08 GMT</pubDate>
             <content:encoded><![CDATA[권나무]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamer (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8791&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8791&amp;album_mode=music</guid>
+            <pubDate>Tue, 07 Dec 2021 17:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[타임플라워 (Time Flower)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008791_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Uptown Girl (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -381,7 +389,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5280&amp;album_mode=music</guid>
             <pubDate>Thu, 02 Dec 2021 05:38:56 GMT</pubDate>
             <content:encoded><![CDATA[보수동쿨러 (Bosudong Cooler)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005280_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[At My Peaceful Garden (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -459,14 +467,6 @@
             <title><![CDATA[Raise The Roof (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8607&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8607&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[Robert Plant / Alison Krauss]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Raise The Roof (DELUXE EDITION) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8608&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8608&amp;album_mode=music</guid>
             <pubDate>Thu, 02 Dec 2021 05:38:56 GMT</pubDate>
             <content:encoded><![CDATA[Robert Plant / Alison Krauss]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>

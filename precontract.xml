@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 17:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
             <content:encoded><![CDATA[10,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008794_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투 데이 올드 스니커즈 (2 Day Old Sneakers)
-														여기서 빛난다 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[8,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유라시아 (Eurasia)
@@ -78,6 +69,15 @@
             <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
             <content:encoded><![CDATA[22,600]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송영주
+														Jazz Meets Hymns 3 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</guid>
+            <pubDate>Tue, 07 Dec 2021 17:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[14,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
