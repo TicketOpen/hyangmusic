@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 17:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[암호
+														The Piece]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</guid>
+            <pubDate>Wed, 08 Dec 2021 17:46:27 GMT</pubDate>
+            <content:encoded><![CDATA[10,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001298_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투 데이 올드 스니커즈 (2 Day Old Sneakers)
+														여기서 빛난다]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
+            <pubDate>Wed, 08 Dec 2021 17:46:27 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타임플라워 (Time Flower)
 														Dreamer]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
             <content:encoded><![CDATA[33,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003936_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Makaya McCraven
-														Deciphering The Message (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=9660&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=9660&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[30,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/STAN/STAN-009660_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Violent Femmes
-														Why Do Birds Sing? (REMASTERED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3939&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3939&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003939_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,18 +4,9 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 17:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[루시 (Lucy)
-														Blue [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8794&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8794&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[10,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008794_s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[유라시아 (Eurasia)
 														Ø (파이) [예약판매]]]></title>
@@ -78,6 +69,15 @@
             <pubDate>Tue, 07 Dec 2021 17:48:28 GMT</pubDate>
             <content:encoded><![CDATA[14,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽돌
+														너를 향한 감탄사! [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</guid>
+            <pubDate>Wed, 08 Dec 2021 17:46:18 GMT</pubDate>
+            <content:encoded><![CDATA[7,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005267_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
