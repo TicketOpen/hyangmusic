@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 17:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤시내
+														1집 - 새 노래 모음 (180G AUDIOPHILE LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1174&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1174&amp;album_mode=music</guid>
+            <pubDate>Thu, 09 Dec 2021 05:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001174_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[암호
 														The Piece]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
             <content:encoded><![CDATA[33,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003937_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Echo And The Bunnymen
-														Ocean Rain (180G REMASTERED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3936&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 17:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[33,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003936_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
