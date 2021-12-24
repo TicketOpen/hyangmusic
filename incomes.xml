@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 17:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권나무
+														1집 - 그림 (CLEAR COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5283&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5283&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Dec 2021 05:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[48,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005283_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임창정
 														10집 - Bye (140G LP) [2021 REMASTERED]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 06 Dec 2021 17:37:41 GMT</pubDate>
             <content:encoded><![CDATA[16,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008791_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이 (Mirani)
-														Uptown Girl]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=900&amp;album_mode=music</guid>
-            <pubDate>Sat, 04 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000900_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
