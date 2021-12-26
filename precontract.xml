@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 05:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 17:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장우혁
-														어때 Tonight (COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Dec 2021 05:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[31,200]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008793_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤숭
 														그 방을 열고 나올 사람은 나밖에 없네 [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</link>
@@ -62,15 +53,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005277_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2F (신용재 / 김원주)
-														If [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</guid>
-            <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008792_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아톰뮤직하트
 														망명자 이즘 [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
@@ -78,6 +60,24 @@
             <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
             <content:encoded><![CDATA[22,600]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송영주
+														Jazz Meets Hymns 3 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2564&amp;album_mode=music</guid>
+            <pubDate>Sun, 26 Dec 2021 17:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[14,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽돌
+														너를 향한 감탄사! [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</guid>
+            <pubDate>Sun, 26 Dec 2021 17:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[7,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005267_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
