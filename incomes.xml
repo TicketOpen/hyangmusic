@@ -4,9 +4,54 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 05:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 17:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤숭
+														그 방을 열고 나올 사람은 나밖에 없네]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[14,100]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005277_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작은우주
+														작은우주 (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5266&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5266&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[9,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005266_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이그린
+														Color (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[11,100]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유라시아 (Eurasia)
+														Ø (파이)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005282_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽돌
+														너를 향한 감탄사!]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[9,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005267_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권나무
 														1집 - 그림 (CLEAR COLOURED LP)]]></title>
@@ -33,51 +78,6 @@
             <pubDate>Tue, 21 Dec 2021 17:47:35 GMT</pubDate>
             <content:encoded><![CDATA[44,600]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008617_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스핏온마이툼 (Spit On My Tomb)
-														Necrosis]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5279&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5279&amp;album_mode=music</guid>
-            <pubDate>Wed, 15 Dec 2021 17:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005279_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤시내
-														1집 - 새 노래 모음 (180G AUDIOPHILE LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1174&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1174&amp;album_mode=music</guid>
-            <pubDate>Thu, 09 Dec 2021 05:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001174_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암호
-														The Piece]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1298&amp;album_mode=music</guid>
-            <pubDate>Wed, 08 Dec 2021 17:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001298_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투 데이 올드 스니커즈 (2 Day Old Sneakers)
-														여기서 빛난다]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5284&amp;album_mode=music</guid>
-            <pubDate>Wed, 08 Dec 2021 17:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[10,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005284_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타임플라워 (Time Flower)
-														Dreamer]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8791&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Dec 2021 17:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[16,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008791_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

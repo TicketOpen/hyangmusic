@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 05:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 17:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,33 +26,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유라시아 (Eurasia)
-														Ø (파이) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5282&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Nov 2021 17:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[9,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005282_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이그린
-														Color (EP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5281&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Nov 2021 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[8,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005281_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤숭
-														그 방을 열고 나올 사람은 나밖에 없네 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5277&amp;album_mode=music</guid>
-            <pubDate>Thu, 02 Dec 2021 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[11,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005277_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아톰뮤직하트
 														망명자 이즘 [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
@@ -71,13 +44,40 @@
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002564_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[몽돌
-														너를 향한 감탄사! [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5267&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Dec 2021 17:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[7,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005267_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[비아이 (B.I)
+														Cosmos (HALF ALBUM) [3종 중 1종 랜덤 발송] [예약판매] [브로마이드]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8771&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8771&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008771_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														봄날은 간다 (180G Gate-Fold 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[59,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celeste
+														Not Your Muse (DELUXE EDITION) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2656&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2656&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[19,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002656_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장우혁
+														어때 Tonight (COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[31,200]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008793_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
