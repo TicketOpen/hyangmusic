@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <pubDate>Fri, 24 Dec 2021 05:39:40 GMT</pubDate>
             <content:encoded><![CDATA[39,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아톰뮤직하트
-														망명자 이즘 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</guid>
-            <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[22,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송영주
@@ -78,6 +69,24 @@
             <pubDate>Tue, 28 Dec 2021 17:46:46 GMT</pubDate>
             <content:encoded><![CDATA[31,200]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008793_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2F (신용재 / 김원주)
+														If [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8792&amp;album_mode=music</guid>
+            <pubDate>Fri, 31 Dec 2021 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008792_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아톰뮤직하트
+														망명자 이즘 (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</guid>
+            <pubDate>Sat, 04 Dec 2021 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[22,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤숭
@@ -143,15 +152,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008618_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임창정
-														10집 - Bye (140G 스카이 그린 칼라 LP) [2021 REMASTERED] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8617&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8617&amp;album_mode=music</guid>
-            <pubDate>Tue, 21 Dec 2021 17:47:35 GMT</pubDate>
-            <content:encoded><![CDATA[44,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008617_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
@@ -166,14 +166,6 @@
             <pubDate>Thu, 23 Dec 2021 17:47:49 GMT</pubDate>
             <content:encoded><![CDATA[이상은 (Lee-Tzsche)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[망명자 이즘 (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5275&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Nov 2021 17:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[아톰뮤직하트]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazz Meets Hymns 3 (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -221,7 +213,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8792&amp;album_mode=music</guid>
             <pubDate>Tue, 23 Nov 2021 17:43:41 GMT</pubDate>
             <content:encoded><![CDATA[2F (신용재 / 김원주)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008792_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1집 - 그대 생각 / 잊지 못할 그녀 (180G ORANGE COLOURED LP) [1인 1매 주문] (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -312,6 +304,22 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[Next Episode (AKMU COLLABORATION ALBUM) [LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8710&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8710&amp;album_mode=music</guid>
+            <pubDate>Fri, 31 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[악동뮤지션 (Akdong Musician)]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[망명자 이즘 (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5275&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Nov 2021 17:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[아톰뮤직하트]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그 방을 열고 나올 사람은 나밖에 없네 (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5277&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5277&amp;album_mode=music</guid>
@@ -381,7 +389,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5279&amp;album_mode=music</guid>
             <pubDate>Wed, 15 Dec 2021 17:46:05 GMT</pubDate>
             <content:encoded><![CDATA[스핏온마이툼 (Spit On My Tomb)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005279_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[1집 - 새 노래 모음 (180G AUDIOPHILE LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -461,14 +469,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=STAN&amp;code=9660&amp;album_mode=music</guid>
             <pubDate>Fri, 03 Dec 2021 17:46:03 GMT</pubDate>
             <content:encoded><![CDATA[Makaya McCraven]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Do Birds Sing? (REMASTERED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3939&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3939&amp;album_mode=music</guid>
-            <pubDate>Fri, 03 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[Violent Femmes]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

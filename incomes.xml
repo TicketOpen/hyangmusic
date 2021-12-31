@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아톰뮤직하트
+														망명자 이즘]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5275&amp;album_mode=music</guid>
+            <pubDate>Fri, 31 Dec 2021 05:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[22,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005275_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤숭
 														그 방을 열고 나올 사람은 나밖에 없네]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 21 Dec 2021 17:47:35 GMT</pubDate>
             <content:encoded><![CDATA[44,600]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008618_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임창정
-														10집 - Bye (140G 스카이 그린 칼라 LP) [2021 REMASTERED]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8617&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8617&amp;album_mode=music</guid>
-            <pubDate>Tue, 21 Dec 2021 17:47:35 GMT</pubDate>
-            <content:encoded><![CDATA[44,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008617_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
