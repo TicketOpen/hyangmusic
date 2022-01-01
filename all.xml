@@ -4,27 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 05:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 17:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이상은 (Lee-Tzsche)
-														6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
-            <pubDate>Fri, 24 Dec 2021 05:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 (Lee-Tzsche)
-														5집 - 언젠가는 (180G LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
-            <pubDate>Fri, 24 Dec 2021 05:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[39,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[송영주
 														Jazz Meets Hymns 3 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
@@ -60,6 +42,24 @@
             <pubDate>Tue, 28 Dec 2021 17:46:46 GMT</pubDate>
             <content:encoded><![CDATA[19,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002656_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 (Lee-Tzsche)
+														6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Dec 2021 05:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[53,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 (Lee-Tzsche)
+														5집 - 언젠가는 (180G LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Dec 2021 05:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[39,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장우혁
@@ -152,22 +152,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008618_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
-            <pubDate>Thu, 23 Dec 2021 17:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[이상은 (Lee-Tzsche)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5집 - 언젠가는 (180G LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
-            <pubDate>Thu, 23 Dec 2021 17:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[이상은 (Lee-Tzsche)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jazz Meets Hymns 3 (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2564&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2564&amp;album_mode=music</guid>
@@ -198,6 +182,22 @@
             <pubDate>Fri, 03 Dec 2021 05:38:36 GMT</pubDate>
             <content:encoded><![CDATA[Celeste]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002656_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
+            <pubDate>Thu, 23 Dec 2021 17:47:49 GMT</pubDate>
+            <content:encoded><![CDATA[이상은 (Lee-Tzsche)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5집 - 언젠가는 (180G LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
+            <pubDate>Thu, 23 Dec 2021 17:47:49 GMT</pubDate>
+            <content:encoded><![CDATA[이상은 (Lee-Tzsche)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어때 Tonight (COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
