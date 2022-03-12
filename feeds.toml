@@ -1,3 +1,13 @@
+[smartstore]
+title = "네이버 스마트스토어 ─ 향뮤직"
+url = "https://smartstore.naver.com/hyangmusic/category/32562d12fd7b46f2835fcb246ba18ce1?cp=1"
+entrySelector = "ul li.-qHwcFXhj0"
+titleSelector = "strong.QNNliuiAk3"
+linkSelector = "a"
+imageSelector = "img._25CKxIKjAk"
+contentSelector = "div._23DThs7PLJ span.nIAdxeTzhx"
+waitUntil = "networkidle"
+
 [precontract]
 title = "향뮤직 ─ 예약 음반"
 url = "http://hyangmusic.com/Def_List.php?list_name=precontract"
